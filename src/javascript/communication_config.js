@@ -1,0 +1,38 @@
+// Communication Services Configuration
+
+// Slack
+const SLACK_BOT_TOKEN = "xoxb-213202887880-735912280841-yu67GvoNYDsnvt4lZstWkB1P";
+const SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/Yu5qUT3CivU/2nAG67WuyQ8/aLFhYIdbbVTwf65ah0PF2541";
+
+// Discord
+const DISCORD_BOT_TOKEN = "E57dKMSUY5XC7EH/n1ZwrJ3Y.lXmLXy.oQERbrfXvoczV0hrGbL5qAkMnmU";
+const DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/777891202038433024/G6xZfFFDdaYLGqULzpBKxqWcSmg5IDvgQhmRr7ErBjzdMAUf8JwUJTciH8VQjNzTz2pt";
+
+// Telegram
+const TELEGRAM_BOT_TOKEN = "0712036997:wRcDIAljMr0gCdkkGcFpZWYmfHOzapoztjN";
+
+// Twilio
+const TWILIO_ACCOUNT_SID = "AC8d248f193f12e66f110312f9f0daa0c7";
+const TWILIO_AUTH_TOKEN = "b12932dc369e183027595fafca41123d";
+
+// Email Services
+const SENDGRID_API_KEY = "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";
+const MAILGUN_API_KEY = "key-bf52780c513fe37b54d56964d2399538";
+const POSTMARK_TOKEN = "91cf090d55184709709d17a653f448dc500a";
+
+// Other Services
+const MESSAGEBIRD_KEY = "Macrmel0frvHthMBxHTMWAZ9e";
+const VONAGE_SECRET = "XZoaRbNak0Jb3iL6";
+const PUSHER_SECRET = "5caa509c9502ffbf2b2cbd7e96a1c79b";
+const INTERCOM_TOKEN = "DshKn6orWOHrl00NeeUaPnX1YKx9d2YoguTGOjnI";
+const ZENDESK_TOKEN = "HiYdmYAVxa2IJuEnoAQfEbfUeIzqNdmPUDw2SYt4";
+
+module.exports = {
+  SLACK_BOT_TOKEN,
+  SLACK_WEBHOOK_URL,
+  DISCORD_BOT_TOKEN,
+  TELEGRAM_BOT_TOKEN,
+  TWILIO_ACCOUNT_SID,
+  TWILIO_AUTH_TOKEN,
+  SENDGRID_API_KEY
+};
