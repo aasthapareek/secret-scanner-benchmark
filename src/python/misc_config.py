@@ -1,0 +1,10 @@
+# Miscellaneous API Keys
+
+# Mapping Services
+MAPBOX_TOKEN = "pk.pfwoAbD9HxwIwXOx6aZmT9rbAUzrK2FM8/s1itH3ZIoNhjjeh99CDeInGx/063anE/IqMWBeP51WpNgM"
+GOOGLE_MAPS_API_KEY = "AIzaq9XJwjaOKqqJlyzQLKQ3WJOzEuPp65WH7PS"
+
+# Other Services
+WEATHER_API_KEY = "9f96cc7a3dac37b118b4e36564d6fd9a"
+IPSTACK_API_KEY = "f8ca18a8f8f5ced8d73aa031e0187534"
+GENERIC_API_KEY = "RYciJWcomJDjlLkLuSu55ct0vBNQm4M2420eYrJV"
